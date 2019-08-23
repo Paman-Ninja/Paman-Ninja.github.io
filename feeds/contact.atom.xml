@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ninja Code - contact</title><link href="https://Paman-Ninja.github.io/" rel="alternate"></link><link href="https://Paman-Ninja.github.io/feeds/contact.atom.xml" rel="self"></link><id>https://Paman-Ninja.github.io/</id><updated>2019-08-24T08:27:00+09:00</updated><entry><title>contacts</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/contacts/" rel="alternate"></link><published>2019-08-24T08:27:00+09:00</published><updated>2019-08-24T08:27:00+09:00</updated><author><name>Paman Ninja</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/contacts/</id><content type="html">&lt;p&gt;&lt;img alt="Alt Text" src="https://Paman-Ninja.github.io/images/ninjafans.png"&gt;&lt;/p&gt;
+&lt;p&gt;Hi all, you can &lt;strong&gt;reach&lt;/strong&gt; me ...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://facebook.com"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://reddit.com"&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://paypal.com"&gt;Paypal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Insist to buy me a cup of green tea ???, feel free to whisper below
+&lt;form action="//formspree.io/ninja.tomodachi.no@gmail.com" method="POST"&gt;
+    &lt;input type="text" name="name" placeholder='namae wa'&gt;
+    &lt;input type="email" name="_replyto" placeholder='email wa'&gt;
+    &lt;input type="submit" value="Send"&gt;
+&lt;/form&gt;&lt;/p&gt;
+&lt;form action="//formspree.io/ninja.tomodachi.no@gmail.com" method="POST"&gt;
+    &lt;input type="text" name="name" placeholder='namae wa'&gt;
+    &lt;input type="email" name="_replyto" 
+    &lt;textarea name="message"&gt;&lt;/textarea&gt;
+
+    &lt;input type="text" name="_gotcha" style="display:none"&gt;
+    &lt;input type="hidden" name="_subject" value="Message via http://domain.com"&gt;
+
+    &lt;input type="submit" value="Send"&gt;
+&lt;/form&gt;</content></entry></feed>
