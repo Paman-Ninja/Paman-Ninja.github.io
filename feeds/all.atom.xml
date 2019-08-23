@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ninja Code</title><link href="https://Paman-Ninja.github.io/" rel="alternate"></link><link href="https://Paman-Ninja.github.io/feeds/all.atom.xml" rel="self"></link><id>https://Paman-Ninja.github.io/</id><updated>2019-08-24T04:24:02+09:00</updated><entry><title>Python is Art</title><link href="https://Paman-Ninja.github.io/Python-post.html" rel="alternate"></link><published>2019-08-24T04:24:02+09:00</published><updated>2019-08-24T04:24:02+09:00</updated><author><name>Oji San</name></author><id>tag:paman-ninja.github.io,2019-08-24:/Python-post.html</id><summary type="html">&lt;p&gt;Python never bitten ...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Code blocks are preceded by an indent, three : symbols and the name of the language.
+All of the following code will be highlighted while the text is indented.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;do_twice&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;func&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;func&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;kwargs&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;lower&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;wrapper_do_twice&lt;/span&gt;
+
+&lt;span class="nd"&gt;@do_twice&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;say_whee&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;some_text&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;some_text&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Whee!&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;say_whee&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Once upon a time, I sat on a very huge tree was thinking what the purpose of life is. My mind was flying far far away but unlucky didn't find any answer. Did I desperate...? I am a Ninja, with great power comes with great responsibility and never rely the future on the social media such as Facebook, Instagram, etc ????.&lt;/p&gt;
+&lt;p&gt;By the way, lending the very nice quote from 'Deidara' I would say that 'Art is a Programming'.&lt;/p&gt;</content><category term="art"></category><category term="life"></category><category term="programming"></category><category term="Python"></category></entry></feed>
