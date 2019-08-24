@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ninja Code</title><link href="https://Paman-Ninja.github.io/" rel="alternate"></link><link href="https://Paman-Ninja.github.io/feeds/all.atom.xml" rel="self"></link><id>https://Paman-Ninja.github.io/</id><updated>2019-08-24T08:27:00+09:00</updated><entry><title>contacts</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/contacts/" rel="alternate"></link><published>2019-08-24T08:27:00+09:00</published><updated>2019-08-24T08:27:00+09:00</updated><author><name>Paman Ninja</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/contacts/</id><content type="html">&lt;p&gt;&lt;img alt="Alt Text" src="https://Paman-Ninja.github.io/images/ninjafans.png"&gt;&lt;/p&gt;
-&lt;p&gt;Hi all, you can &lt;strong&gt;reach&lt;/strong&gt; me ...&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://facebook.com"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://reddit.com"&gt;Reddit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://paypal.com"&gt;Paypal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Insist to buy me a cup of green tea ???, feel free to whisper below
-&lt;form action="//formspree.io/ninja.tomodachi.no@gmail.com" method="POST"&gt;
-    &lt;input type="text" name="name" placeholder='namae wa'&gt;
-    &lt;input type="email" name="_replyto" placeholder='email wa'&gt;
-    &lt;input type="submit" value="Send"&gt;
-&lt;/form&gt;&lt;/p&gt;
-&lt;form action="//formspree.io/ninja.tomodachi.no@gmail.com" method="POST"&gt;
-    &lt;input type="text" name="name" placeholder='namae wa'&gt;
-    &lt;input type="email" name="_replyto" 
-    &lt;textarea name="message"&gt;&lt;/textarea&gt;
-
-    &lt;input type="text" name="_gotcha" style="display:none"&gt;
-    &lt;input type="hidden" name="_subject" value="Message via http://domain.com"&gt;
-
-    &lt;input type="submit" value="Send"&gt;
-&lt;/form&gt;</content></entry><entry><title>Keras Kepala</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/Keras-kepala-post/" rel="alternate"></link><published>2019-08-24T08:20:51+09:00</published><updated>2019-08-24T08:20:51+09:00</updated><author><name>Oji San</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/Keras-kepala-post/</id><summary type="html">&lt;p&gt;Be Stubborn, Be keras ...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Once upon a time, I sat on a very huge tree was thinking what the purpose of life is. My mind was flying far far away but unlucky didn't find any answer. Did I desperate...? I am a Ninja, with great power comes with great responsibility and never rely the future on the social media such as Facebook, Instagram, etc ????.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ninja Code</title><link href="https://Paman-Ninja.github.io/" rel="alternate"></link><link href="https://Paman-Ninja.github.io/feeds/all.atom.xml" rel="self"></link><id>https://Paman-Ninja.github.io/</id><updated>2019-08-24T08:20:51+09:00</updated><entry><title>Keras Kepala</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/Keras-kepala-post/" rel="alternate"></link><published>2019-08-24T08:20:51+09:00</published><updated>2019-08-24T08:20:51+09:00</updated><author><name>Oji San</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/Keras-kepala-post/</id><summary type="html">&lt;p&gt;Be Stubborn, Be keras ...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Once upon a time, I sat on a very huge tree was thinking what the purpose of life is. My mind was flying far far away but unlucky didn't find any answer. Did I desperate...? I am a Ninja, with great power comes with great responsibility and never rely the future on the social media such as Facebook, Instagram, etc ????.&lt;/p&gt;
 &lt;p&gt;By the way, lending the very nice quote from 'Deidara' I would say that 'Art is a Programming'.&lt;/p&gt;</content><category term="art"></category><category term="life"></category><category term="programming"></category></entry><entry><title>My Life</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/life-post-2/" rel="alternate"></link><published>2019-08-24T05:59:25+09:00</published><updated>2019-08-24T05:59:25+09:00</updated><author><name>Oji San</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/life-post-2/</id><summary type="html">&lt;p&gt;Birds is Just Not Fly, They Falled and Try Again&lt;/p&gt;</summary><content type="html">&lt;p&gt;I meshed up tonight, I know I have failed. Some times I felt that I might be better to surrender, take off all the heavy problems have been hanging on my shoulder. But I know I have to get up, start again from the beginning until reach the end.&lt;/p&gt;
 &lt;p&gt;Keep doing same mistakes again and again    &lt;/p&gt;</content><category term="life"></category></entry><entry><title>Python is Art</title><link href="https://Paman-Ninja.github.io/articles/2019/08/24/Python-post/" rel="alternate"></link><published>2019-08-24T04:24:02+09:00</published><updated>2019-08-24T04:24:02+09:00</updated><author><name>Oji San</name></author><id>tag:paman-ninja.github.io,2019-08-24:/articles/2019/08/24/Python-post/</id><summary type="html">&lt;p&gt;Python never bitten ...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Code blocks are preceded by an indent, three : symbols and the name of the language.
 All of the following code will be highlighted while the text is indented.&lt;/p&gt;
